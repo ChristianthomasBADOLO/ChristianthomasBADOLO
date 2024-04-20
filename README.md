@@ -1,7 +1,7 @@
 <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Hello there! I'm Christian Thomas BADOLO 🧙</h3>
 
 <div align="center">
-  <a href="https://github.com/christianrfg">
+  <a href="https://github.com/ChristianthomasBADOLO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianrfg&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianrfg&layout=compact&langs_count=7&theme=dark">
 </div>
@@ -15,7 +15,7 @@
   
 <h4 align="left">About Me</h4>
 
-As a Senior Data Scientist and Machine Learning Engineer with over 7 years of experience in both software industry and academic research, I have demonstrated a strong ability to develop and deploy complex machine learning models and solutions. My academic background includes a Master's degree in Computer Science, with a specialization in Natural Language Processing (NLP).
+I am a DATA SCIENTIST and MACHINE LEARNING ENGINEER. 
 
   
 <h4 align="left">Current Challenges</h4>
