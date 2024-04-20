@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/ChristianthomasBADOLO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianrfg&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianrfg&layout=compact&langs_count=7&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianthomasbadolo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianthomasbadolo&layout=compact&langs_count=7&theme=dark">
 </div>
   
 <div align="center">
@@ -21,22 +21,26 @@ I am a DATA SCIENTIST and MACHINE LEARNING ENGINEER.
 <h4 align="left">Current Challenges</h4>
   
 - 🌱 Freelancing at UpWork.
-- 📚 Studying about Web Development.
+- 🎯100daysML🚀
+- 📚 Studying about Deep learning.
   
 <h4 align="left">Tools</h4>
 <div style="display: inline_block">
   <img align="center" alt="Chris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Chris-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Chris-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Chris-TF" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   
   <br>
-  
   <img align="center" alt="Chris-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Chris-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Chris-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Chris-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Chris-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg">
+  <img align="center" alt="Chris-fastapi" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="Chris-graphana" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Chris-prometheus" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prometheus/prometheus-original.svg">
+  <img align="center" alt="Chris-matlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Chris-firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg">
+  <img align="center" alt="Chris-arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Chris-figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg">
+  <img align="center" alt="Chris-ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg">
+  <img align="center" alt="Chris-networkx" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/networkx/networkx-original.svg">
 </div>
   
 
