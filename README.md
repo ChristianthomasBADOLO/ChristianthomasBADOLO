@@ -41,6 +41,13 @@ I am a DATA SCIENTIST and MACHINE LEARNING ENGINEER.
   <img align="center" alt="Chris-figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg">
   <img align="center" alt="Chris-ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="Chris-networkx" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/networkx/networkx-original.svg">
+
+
+  <p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
 </div>
-  
+
+
+
 
