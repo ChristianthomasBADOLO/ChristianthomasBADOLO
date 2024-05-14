@@ -12,8 +12,7 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianthomasbadolo&label=Profile%20views&color=0e75b6&style=flat" alt="tchristianthomasbadolo" /> </p>
-##
-  
+
 <h4 align="left">About Me</h4>
 
 I am a DATA SCIENTIST and MACHINE LEARNING ENGINEER. 
